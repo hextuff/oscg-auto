@@ -1,0 +1,3 @@
+beatmaps/*
+!beatmaps/.gitkeep
+.idea/*
